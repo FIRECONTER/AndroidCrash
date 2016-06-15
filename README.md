@@ -1,1 +1,1 @@
-## This project is used to test the framwork of sql(not just the SQLite)
+## This project is used to test the reason of crash
